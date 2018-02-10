@@ -1,4 +1,5 @@
 My local change
+Introducing Merge Conflict 
 
 Hello Cloud Guru
 # githubcourse
